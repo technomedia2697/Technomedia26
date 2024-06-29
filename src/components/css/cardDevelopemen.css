@@ -1,0 +1,17 @@
+/* .container-card{
+    display: flex;
+    align-items: center;
+    width: 600px;
+    height: 237px;
+    box-shadow:0 5px 5px 5px rgb(0 0 0 / 50%);
+    margin: 10px auto;
+} */
+
+.container-card {
+    display: flex;
+    align-items: center;
+    width: 418px;
+    height: 237px;
+    box-shadow: 0 5px 5px 5px rgb(0 0 0 / 50%);
+    margin: 10px auto;
+}

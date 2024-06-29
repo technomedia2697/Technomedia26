@@ -1,0 +1,9 @@
+.parent{
+    position: relative;
+}
+.btn{
+     position: absolute;
+     top: 50px;
+     left: 50px;
+     transform: translate(-120px, 10px);
+}

@@ -1,0 +1,19 @@
+section .developement {
+    padding: 40px 0;
+}
+
+.headTitle-developement {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.headTitle-developement hr {
+    margin: 20px auto;
+}
+
+.container-developement {
+    margin: auto;
+    text-align: center;
+    width: 90%;
+}
+

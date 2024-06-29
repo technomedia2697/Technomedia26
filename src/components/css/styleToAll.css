@@ -1,0 +1,40 @@
+:root {
+    --btn-padding: 13px 30px;
+    --perpel-color-btn:hsl(278, 64%, 63%);
+    --perpel-color:#e139eb;
+    --gry-text: #6c6b6b;
+    
+}
+section{
+    padding:30px 0;
+}
+.container{
+    width:100%;
+    margin:80px auto;
+} 
+.container-caseStudy , .container-building , .container-leading{ 
+    width:90%;
+    margin:auto;
+    text-align: center;
+}
+hr{
+    width: 8%;
+    border-style: 6px;
+    border-color: var(--perpel-color);
+    font-weight:bold;
+}
+
+h2 span{
+    font-weight: 100;
+}
+
+.text-building , .text-leading{
+    width:40%;
+    text-align: left;
+}
+span {
+    color: var(--perpel-color)
+}
+span .blackColor{
+    color:black !important;
+}
